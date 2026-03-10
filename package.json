@@ -1,0 +1,7 @@
+{
+  "name": "@getkizo/kizo-hospitality",
+  "version": "0.0.1",
+  "description": "Kizo sector for hotels, B&Bs, and vacation rentals",
+  "private": true,
+  "workspaces": ["apps/*", "modules/*", "packages/*", "adapters/*"]
+}
